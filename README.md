@@ -27,6 +27,7 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ![screenshot1](https://github.com/VRivera13/Election_Analysis/blob/main/Resources/Total%20Votes%20Cast.PNG)
+![screenshot2](https://github.com/VRivera13/Election_Analysis/blob/main/Resources/County%20with%20Most%20Votes.PNG)
 
  
  ## Election-Audit Summary
